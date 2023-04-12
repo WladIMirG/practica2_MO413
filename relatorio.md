@@ -4,8 +4,11 @@
 ## **Wladimir Arturo Garcés Carrillo [RA204059]**
 
 ## **Suelen Aparecida Ribeiro de Souza [RA252483]** </center>
+#
+### **Nota inicial:**
 
-
+Pode ver os graficos interativos no arquivo ```entrega1.ipynb``` ou nos arquivos com o nome do grafico e extenção ```Grafico<1/2/3/4>.html```.
+#
 ### 1. **Quantos estudos contemplam cada uma das três técnicas de cirurgia (RRP, LRP, RARP) por ano?**
 
 <center>
